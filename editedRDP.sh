@@ -3,7 +3,7 @@ printf "Installing RDP Be Patience... " >&2
 {
 sudo useradd -m ISEEGR8TFULDEADPPL
 sudo adduser ISEEGR8TFULDEADPPL sudo
-echo 'ISEEGR8TFULDEADPPL:8426' | sudo chpasswd
+echo 'ISEEGR8TFULDEADPPL:niggerfaggot' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
